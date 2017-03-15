@@ -226,7 +226,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>This is OpenShift</h1>
+            <h1>This is not not OpenShift</h1>
           </hgroup>
 
 
